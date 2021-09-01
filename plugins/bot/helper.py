@@ -224,12 +224,12 @@ async def start(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/joinchat/hg4dqagMTsE4MDFl"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/MovieAndWeb_Discuss"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("BACKUP", url="https://t.me/GodFather_Community"),
+                InlineKeyboardButton("IMWS BOT", url="https://t.me/IMWSbot"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
@@ -249,12 +249,12 @@ async def help(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/joinchat/hg4dqagMTsE4MDFl"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/MovieAndWeb_Discuss"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("BACKUP", url="https://t.me/GodFather_Community"),
+                InlineKeyboardButton("IMWS BOT", url="https://t.me/IMWSbot"),
             ],
             [
                 InlineKeyboardButton("CLOSE MENU", callback_data="close"),
