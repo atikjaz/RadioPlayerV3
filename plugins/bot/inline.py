@@ -47,7 +47,7 @@ async def search(client, query):
             InlineQueryResultArticle(
                 title="Deploy Your Own Radio Player",
                 thumb_url="https://telegra.ph/file/f1dbf86548edd1d1102ea.jpg",
-                input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@AsmSafone | @SafoTheBot 👑</b>", disable_web_page_preview=True),
+                input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@MovieAndWeb_Discuss | @SafoTheBot 👑</b>", disable_web_page_preview=True),
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
             )
