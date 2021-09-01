@@ -30,7 +30,7 @@ buttons = [
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/joinchat/hg4dqagMTsE4MDFl"),
                 InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
             ],
             [
